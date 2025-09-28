@@ -1,2 +1,2 @@
 # contains my own blocklist which covers what i needed blocked
-www.bnz.co.nz
+https://www.bnz.co.nz
