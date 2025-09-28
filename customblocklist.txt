@@ -1,0 +1,2 @@
+# contains my own blocklist which covers what i needed blocked
+https://www.bnz.co.nz
